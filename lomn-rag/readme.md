@@ -155,7 +155,7 @@ ollama pull llama3
 
 ## License
 
-[Your License Here]
+I made this whole pipeline from scratch using local and FREE models.
 
 ## Citation
 
