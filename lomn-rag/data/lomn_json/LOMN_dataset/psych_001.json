@@ -1,0 +1,12 @@
+{
+  "id": "psych_001",
+  "category": "psychiatric",
+  "payer": "Aetna",
+  "diagnosis": "Recurrent major depressive disorder, severe, without psychotic features",
+  "patient_age": 19,
+  "author_role": "psychiatrist",
+  "body": "To Whom It May Concern:\n\nI am writing in support of continued coverage for my 19-year-old patient’s intensive outpatient program (IOP) for the treatment of recurrent major depressive disorder, severe, without psychotic features. This level of care is medically necessary given the patient’s current symptom severity, functional impairment, and recent suicidal ideation.\n\nThe patient has failed to respond adequately to weekly outpatient psychotherapy and two adequate trials of antidepressant medication. At the time of IOP admission, the patient was unable to attend college classes consistently, maintain sleep hygiene, or perform basic self-care without prompting.\n\nSince beginning IOP, the patient has demonstrated measurable improvement in PHQ-9 scores, safety planning, and daily functioning, but remains at elevated risk for decompensation if stepped down prematurely. Stepping down to standard outpatient care at this time would be clinically inappropriate and inconsistent with evidence-based stepped-care models.\n\nI strongly recommend continuation of IOP for an additional 6 weeks to consolidate gains and reduce relapse risk.\n\nSincerely,\n[Physician Name], MD\n[Clinic]",
+  "source_type": "synthetic",
+  "policy_refs": [],
+  "notes": "Example psychiatric LOMN emphasizing failure of lower level of care + functional impairment."
+}

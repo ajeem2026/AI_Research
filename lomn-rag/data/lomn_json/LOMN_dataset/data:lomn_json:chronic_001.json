@@ -1,0 +1,12 @@
+{
+  "id": "chronic_001",
+  "category": "chronic",
+  "payer": "Cigna",
+  "diagnosis": "Type 1 diabetes mellitus with hypoglycemia unawareness",
+  "patient_age": 34,
+  "author_role": "endocrinologist",
+  "body": "To Whom It May Concern:\n\nI am writing to request coverage for a continuous glucose monitor (CGM) and insulin pump therapy for my 34-year-old patient with Type 1 diabetes and documented hypoglycemia unawareness. Despite adherence to a multiple daily injection regimen and frequent finger-stick monitoring, the patient continues to experience recurrent episodes of severe hypoglycemia requiring third-party assistance.\n\nCGM and pump therapy are medically necessary to improve glycemic control, reduce hypoglycemia, and allow timely detection of dangerous glucose excursions. These technologies are consistent with ADA Standards of Care and widely accepted clinical practice for patients with similar risk profiles.\n\nSincerely,\n[Physician Name], MD\n[Practice Name]",
+  "source_type": "synthetic",
+  "policy_refs": [],
+  "notes": "Chronic disease example focusing on tech coverage."
+}

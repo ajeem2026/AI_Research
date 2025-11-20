@@ -1,0 +1,12 @@
+{
+  "id": "cancer_001",
+  "category": "cancer",
+  "payer": "UnitedHealthcare",
+  "diagnosis": "Stage II triple-negative breast cancer",
+  "patient_age": 52,
+  "author_role": "oncologist",
+  "body": "To Whom It May Concern:\n\nI am writing on behalf of my patient, a 52-year-old woman diagnosed with Stage II triple-negative breast cancer, to request coverage for dose-dense adjuvant chemotherapy with growth factor support. This regimen is medically necessary based on NCCN Category 1 recommendations for node-positive and high-risk node-negative disease.\n\nThe patient has completed surgery with clear margins but remains at high risk of recurrence due to tumor biology and lymph node involvement. The proposed regimen has demonstrated improved disease-free and overall survival compared to standard-interval therapy in multiple randomized trials.\n\nDenying coverage for this treatment would expose the patient to an avoidable increase in recurrence risk and is not aligned with current evidence-based guidelines.\n\nSincerely,\n[Physician Name], MD\n[Institution]",
+  "source_type": "synthetic",
+  "policy_refs": [],
+  "notes": "Baseline cancer example following NCCN framing."
+}
