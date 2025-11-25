@@ -171,4 +171,4 @@ If you use this work, please cite:
 
 ## Contact
 
-For questions or collaboration inquiries, please contact [your email/contact info].
+For questions or collaboration inquiries, please contact ajeem@mail.wlu.edu
