@@ -131,14 +131,6 @@ This RAG pipeline operationalizes key ST-Lens principles:
 - [ ] Reasoning explanation module
 - [ ] Multi-RAG retrieval (LOMNs + policies + clinical guidelines)
 
-## Technical Requirements
-
-- Python 3.8+
-- SentenceTransformers
-- FAISS
-- Ollama with LLaMA 3
-- NumPy
-
 ## Installation
 ```bash
 # Clone repository
